@@ -244,13 +244,13 @@ Follow the exact process to deploy this application in the Local Area Network
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/durgamangena41/imentor-ai-final-year.git
+git clone https://github.com/saimangena20/IMentor_AI/tree/main.git
 ```
 
 2. Move to project folder
 
 ```bash
-cd imentor-ai-final-year
+cd IMentor_AI
 ```
 
 3. Run install.sh script file

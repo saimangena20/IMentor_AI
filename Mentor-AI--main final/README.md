@@ -2,7 +2,7 @@
 
 This  comprehensive AI-powered tutoring application designed to assist users through interactive chat, document analysis, knowledge exploration, and smart learning tools. It integrates multiple Large Language Models (LLMs), Retrieval Augmented Generation (RAG) for contextual understanding from user-uploaded documents, and knowledge graph capabilities for critical thinking. The system also includes an admin interface for managing shared knowledge resources.
 
-**Project Repository:** https://github.com/durgamangena41/imentor-ai-final-year
+**Project Repository:** https://github.com/saimangena20/IMentor_AI/tree/main
 
 ### Current Added Features
 
@@ -244,13 +244,13 @@ Follow the exact process to deploy this application in the Local Area Network
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/durgamangena41/imentor-ai-final-year.git
+git clone https://github.com/saimangena20/IMentor_AI/tree/main.git
 ```
 
 2. Move to project folder
 
 ```bash
-cd imentor-ai-final-year
+cd IMentor_AI
 ```
 
 3. Run install.sh script file
@@ -570,8 +570,3 @@ The application stack includes a full suite of monitoring tools. Access them via
 -   **Prometheus**: `http://localhost:2008` (View raw metrics and service discovery)
 -   **Qdrant UI**: `http://localhost:2003/dashboard` (Inspect vector database collections)
 -   **Neo4j Browser**: `http://localhost:2004` (Query and visualize the knowledge graph)
-
-
-## Demo Video
-
-👉 [Click to Watch the Full Application Demo](https://drive.google.com/file/d/1mbimvtCUj9GBU7yLRP_66JWbDeskONGP/view?usp=sharing)

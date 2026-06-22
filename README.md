@@ -1,11 +1,13 @@
 # IMentor AI: Ai Driven Intelligent Tutoring system using MultiLLM, Rag, and Knowledge Graphs
 
 This  comprehensive AI-powered tutoring application designed to assist users through interactive chat, document analysis, knowledge exploration, and smart learning tools. It integrates multiple Large Language Models (LLMs), Retrieval Augmented Generation (RAG) for contextual understanding from user-uploaded documents, and knowledge graph capabilities for critical thinking. The system also includes an admin interface for managing shared knowledge resources.
-
+**
 **Project Repository:** https://github.com/saimangena20/IMentor_AI/tree/main
-**Project Explanation Video** https://drive.google.com/file/d/16_3300qJwVEdj0bPZV3qvJcXUtWm-OX6/view?usp=drive_link
-**Documentation** https://drive.google.com/file/d/1u9yia7LuUfJUoFZudEAxhtETErztZt7w/view?usp=drive_link
 
+**Project Explanation Video** https://drive.google.com/file/d/16_3300qJwVEdj0bPZV3qvJcXUtWm-OX6/view?usp=drive_link
+
+**Documentation** https://drive.google.com/file/d/1u9yia7LuUfJUoFZudEAxhtETErztZt7w/view?usp=drive_link
+**
 ### Current Added Features
 
 -   **Smart Focus Tracker**: Helps students manage study sessions with timers, pauses, summaries, and session tracking.
